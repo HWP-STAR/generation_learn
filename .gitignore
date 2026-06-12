@@ -1,1 +1,3 @@
 src/results/
+src/checkpoints/
+src/__pycache__/
